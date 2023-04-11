@@ -12,16 +12,5 @@ Problems:
 	<br />
 
 
-Group Members:
-<br />
-Teric Simons
-<br />
-Ranaldo Green
-<br />
-Rasheeda Francis
-<br />
-Kareem Pingue
-<br />
-Kemar Wilson
-<br />
+
 
